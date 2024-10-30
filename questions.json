@@ -1,0 +1,122 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "A little boy at the stand excitedly bought 3 juicy apples and 2 bright lemons. Can you help Eric figure out how many fruits the boy got?",
+        "options": [
+            "4",
+            "5",
+            "3",
+            "2"
+        ],
+        "correct": 1,
+        "secondImg":"./images/1.png"
+    },
+    {
+        "questionNo": "Q2",
+        "question": "The next customer bought 4 pears and 3 peaches. How many fruits did they purchase that day?",
+        "options": [
+            "4",
+            "6",
+            "7",
+            "5"
+        ],
+        "correct": 2,
+        "secondImg":"./images/2.png"
+    },
+    {
+        "questionNo": "Q3",
+        "question": "At sunset, another person bought 5 strawberries and 1 blueberry. What is the total number of fruits?",
+        "options": [
+            "6",
+            "7",
+            "5",
+            "8"
+        ],
+        "correct": 0,
+        "secondImg":"./images/3.png"
+    },
+    {
+        "questionNo": "Q4",
+        "question": "Eric saw a customer buying 4 delicious pears and 4 tropical mangoes. How many fruits did they collect in total?",
+        "options": [
+            "4",
+            "5",
+            "6",
+            "8"
+        ],
+        "correct": 3,
+        "secondImg":"./images/4.png"
+    },
+    {
+        "questionNo": "Q5",
+        "question": "A zoo visitor picked up 5 juicy peaches and 5 sour lemons for their snack. Can you help Eric count how many fruits they bought in total?",
+        "options": [
+            "5",
+            "7",
+            "9",
+            "10"
+        ],
+        "correct": 3,
+        "secondImg":"./images/5.png"
+    },
+    {
+        "questionNo": "Q6",
+        "question": "Another customer bought 7 guavas and 2 oranges. What is the total number of fruits?",
+        "options": [
+            "5",
+            "6",
+            "8",
+            "9"
+        ],
+        "correct": 3,
+        "secondImg":"./images/6.png"
+    },
+    {
+        "questionNo": "Q7",
+        "question": "Eric watched as someone combined 7 shiny apples and 3 juicy mangoes for a smoothie. How many fruits do they have in total?",
+        "options": [
+            "9",
+            "8",
+            "10",
+            "12"
+        ],
+        "correct": 2,
+        "secondImg":"./images/7.png"
+    },
+    {
+        "questionNo": "Q8",
+        "question": "Later, a customer decided to grab 11 pears and 4 strawberries for a fruity snack. How many fruits do they have now?",
+        "options": [
+            "15",
+            "12",
+            "10",
+            "11"
+        ],
+        "correct": 0,
+        "secondImg":"./images/8.png"
+    },
+    {
+        "questionNo": "Q9",
+        "question": "A generous visitor bought 10 mangoes and 6 oranges to share with their friends. How many fruits did they buy in total?",
+        "options": [
+            "12",
+            "14",
+            "16",
+            "18"
+        ],
+        "correct": 2,
+        "secondImg":"./images/9.png"
+    },
+    {
+        "questionNo": "Q10",
+        "question": "At the end of the day, Eric’s mother bought him 14 apples and 5 sweet strawberries as a gift. How many fruits did she buy in total?",
+        "options": [
+            "18",
+            "19",
+            "15",
+            "17"
+        ],
+        "correct": 1,
+        "secondImg":"./images/10.png"
+    }
+]
